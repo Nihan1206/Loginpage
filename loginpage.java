@@ -15,5 +15,7 @@ class Login{
 void  notification(){
     System.out.println("notification");
 }
-
+void printdata(){
+    
+}
 }
